@@ -2,11 +2,11 @@
 
 This project aims to predict the price of a laptop based on its specifications using various machine learning algorithms including Random Forest, Linear Regression, Decision Tree, and Lasso Regression.
 
-#Dataset
+# Dataset
 
 The dataset used in this project is sourced from Kaggle, and it contains information about the specifications of various laptops along with their corresponding prices. The dataset can be found here.
 
-#Algorithms
+# Algorithms
 The following algorithms were used to predict the laptop prices:
 Random Forest: This algorithm uses multiple decision trees to make predictions and is known for its high accuracy and robustness against overfitting.
 Linear Regression: This algorithm tries to find a linear relationship between the input features and the target variable.
