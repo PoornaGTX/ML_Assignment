@@ -4,7 +4,7 @@ This project aims to predict the price of a laptop based on its specifications u
 
 # Dataset
 
-The dataset used in this project is sourced from Kaggle, and it contains information about the specifications of various laptops along with their corresponding prices. The dataset can be found here.
+The dataset used in this project is sourced from Kaggle, and it contains information about the specifications of various laptops along with their corresponding prices. The dataset can be [found here.](https://www.kaggle.com/datasets/muhammetvarl/laptop-price)
 
 # Algorithms
 The following algorithms were used to predict the laptop prices:
